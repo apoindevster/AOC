@@ -1,0 +1,6 @@
+[package]
+name = "day2a_wicked_witch_of_the_witch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
